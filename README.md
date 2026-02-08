@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C39A4&width=435&lines=im+a+backend+developer+%3A)+)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
