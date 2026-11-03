@@ -26,6 +26,17 @@
 </details>
 
 <details>
+<summary><b>Wormhole</b>: self-hosted reverse tunnel, an ngrok alternative | <code>Node.js</code> <code>TypeScript</code> <code>TLS</code></summary>
+
+<br>
+
+- A client opens one outbound TLS connection to a public relay server, which assigns a subdomain and forwards incoming requests through the tunnel
+- Custom binary protocol multiplexes many concurrent requests over that single connection
+- [Repo](https://github.com/harxhe/wormhole)
+
+</details>
+
+<details>
 <summary><b>Real-Time Voice Assistant</b>: VAD → ASR → LLM → TTS, under 5.5s latency | <code>Python</code> <code>PyTorch</code> <code>Faster-Whisper</code></summary>
 
 <br>
