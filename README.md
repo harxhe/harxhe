@@ -15,11 +15,11 @@
 ### Featured Projects
 
 <details>
-<summary><b>Echo</b>: Discord-inspired platform, 900+ users at Gravitas | <code>Node.js</code> <code>Socket.io</code> <code>Redis</code> <code>PostgreSQL</code></summary>
+<summary><b>Echo</b>: Discord-inspired platform, 900+ users at Gravitas | <code>TypeScript</code> <code>Socket.IO</code> <code>Redis</code> <code>PostgreSQL</code></summary>
 
 <br>
 
-- Co-developed the backend for real-time messaging, presence, and voice/video (LiveKit)
+- Co-developed the backend for real-time messaging, typing indicators, and presence, scaled across instances with the Redis adapter
 - Designed a PostgreSQL schema for friend graphs, server roles, and polymorphic channels
 - [Repo](https://github.com/harxhe/echo-backend-harsh) • [Details](https://harxhe.dev/project/echo)
 
